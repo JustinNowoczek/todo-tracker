@@ -2,6 +2,7 @@
   "name": "todo-tracker",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://JustinNowoczek.github.io/todo-tracker",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.5.2",
     "@testing-library/jest-dom": "^5.17.0",
@@ -13,6 +14,7 @@
     "@types/react-dom": "^18.3.0",
     "bulma": "^1.0.1",
     "classnames": "^2.5.1",
+    "gh-pages": "^6.1.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
